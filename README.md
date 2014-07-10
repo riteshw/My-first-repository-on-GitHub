@@ -1,11 +1,5 @@
 My-first-repository-on-GitHub
 =============================
-js-assessment
-=============
-
-This is an assessment of your ability to use native Javascript and modern javascript development tools.
-
-You must have node.js, npm and grunt-cli installed.
 
 Instructions:
 ------------
